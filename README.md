@@ -19,4 +19,5 @@ For this task:
 * I solved a beginner-level problem on HackerRank  
 * I also created a Google Form as a digital literacy quiz
   
-  **Google Form Link:** 
+  **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSfYAzfjxsdpxnKEekZKfr9SRQWq8E141J4NJCy4bsha-xKJuA/viewform?usp=publish-editor
+  
