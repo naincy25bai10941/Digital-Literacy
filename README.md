@@ -20,4 +20,11 @@ For this task:
 * I also created a Google Form as a digital literacy quiz
   
   **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSfYAzfjxsdpxnKEekZKfr9SRQWq8E141J4NJCy4bsha-xKJuA/viewform?usp=publish-editor
-  
+  ### Task 4 - Email Etiquette
+  In this task:
+* I wrote two formal emails (one for assignment extension and one for internship inquiry)  
+* I also created a checklist of Do’s and Don’ts for social media use
+  ### Task 5 - Cybercrime Awareness
+  This task includes:
+* A case study on UPI fraud  
+* A prevention checklist with basic safety tips
