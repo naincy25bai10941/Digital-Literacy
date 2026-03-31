@@ -28,3 +28,12 @@ For this task:
   This task includes:
 * A case study on UPI fraud  
 * A prevention checklist with basic safety tips
+## What I Learned
+
+Through this project, I understood:
+* How to use different digital platforms  
+* Importance of online safety  
+* How to communicate professionally through emails  
+* Basic awareness about cybercrime  
+
+Some parts were a bit confusing in the beginning, but after completing all tasks, I feel more confident.
